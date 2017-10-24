@@ -1,4 +1,4 @@
-# pemodelan-relasi-aktor-film
+# actor-film-relation-modelling
 A course task
 
 this program will show relation between an actor and a film, this program has a function such as:
