@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1491355330 source:e:\aditya\std\tubesstd\tubes\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"aktor.h"
+	"film.h"
+	"relasi.h"
+
+1491137890 source:e:\aditya\std\tubesstd\tubes\aktor.cpp
+	"aktor.h"
+
+1491107733 e:\aditya\std\tubesstd\tubes\aktor.h
+	<iostream>
+	<string>
+
+1491137871 source:e:\aditya\std\tubesstd\tubes\film.cpp
+	"film.h"
+
+1490678092 e:\aditya\std\tubesstd\tubes\film.h
+	<iostream>
+	<string>
+
+1491107820 e:\aditya\std\tubesstd\tubes\relasi.h
+	"aktor.h"
+	"film.h"
+	"relasi.h"
+	<iostream>
+
+1491137890 source:e:\aditya\std\tubesstd\tubes\relasi.cpp
+	"relasi.h"
+
+1491044199 source:e:\aditya\std\tubesstd\tubes\tes.cpp
+
+1491137890 source:e:\aditya\sekolah\kuliah\semester 2\struktur data\tubes std\tubesstd\tubes\aktor.cpp
+	"aktor.h"
+
+1491107733 e:\aditya\sekolah\kuliah\semester 2\struktur data\tubes std\tubesstd\tubes\aktor.h
+	<iostream>
+	<string>
+
+1491137871 source:e:\aditya\sekolah\kuliah\semester 2\struktur data\tubes std\tubesstd\tubes\film.cpp
+	"film.h"
+
+1490678092 e:\aditya\sekolah\kuliah\semester 2\struktur data\tubes std\tubesstd\tubes\film.h
+	<iostream>
+	<string>
+
+1491524808 source:e:\aditya\sekolah\kuliah\semester 2\struktur data\tubes std\tubesstd\tubes\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"aktor.h"
+	"film.h"
+	"relasi.h"
+
+1491107820 e:\aditya\sekolah\kuliah\semester 2\struktur data\tubes std\tubesstd\tubes\relasi.h
+	"aktor.h"
+	"film.h"
+	"relasi.h"
+	<iostream>
+
+1491137890 source:e:\aditya\sekolah\kuliah\semester 2\struktur data\tubes std\tubesstd\tubes\relasi.cpp
+	"relasi.h"
+
